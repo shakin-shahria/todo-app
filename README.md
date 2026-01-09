@@ -1,3 +1,8 @@
+## Live Deployment
+
+Check out the live Todo application here: [https://todo-app-xjur.onrender.com](https://todo-app-xjur.onrender.com)
+
+
 # Django Todo App
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
